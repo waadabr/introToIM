@@ -6,6 +6,6 @@ Here is my close up image:
 ![](CloseUpOfSwitch.jpg)
 
 Here is my full operation image:
-![](FullOperation.jpg)
+![](FullOperation.jpg) 
 
 And [here](https://www.youtube.com/watch?v=PFfhdSKhBVg) is my video
