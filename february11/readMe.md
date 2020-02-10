@@ -1,2 +1,3 @@
 Project explanation:
 
+![]circuitSchematic.jpg
