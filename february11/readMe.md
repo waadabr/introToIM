@@ -1,3 +1,3 @@
 Project explanation:
 
-![]circuitSchematic.jpg
+![](circuitSchematic.jpg)
