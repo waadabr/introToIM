@@ -8,6 +8,7 @@ To create my police light I placed 8 LEDs in a row: 3 red, 2 white, and 3 blue. 
 **Program:**
 
 int pushButton = 9;
+
 int pushButton2 = 8;
 int pushButton3 = 7;
 int pushButton4 = 2;
