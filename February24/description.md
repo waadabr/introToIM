@@ -4,11 +4,11 @@ This is the description of my project
 
 Here is a picture of the full operation:
 
-![]
+![](fullOperation.png)
 
 Here is a picture of the circuit:
 
-![]
+![](circuit.png)
 
 Here is the circuit schematic:
 
