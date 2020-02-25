@@ -9,7 +9,7 @@ This idea was developed after thinking of trying to create some form of dj syste
 
 Here is a picture of the full operation:
 
-![](fullOperation.png)
+![](fullOperation 4.34.15 PM.png)
 
 Here is a picture of the circuit:
 
