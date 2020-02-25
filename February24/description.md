@@ -12,4 +12,4 @@ Here is a picture of the circuit:
 
 Here is the circuit schematic:
 
-![](circuitSchematic.PNG)
+![](circuitSchematic.png)
