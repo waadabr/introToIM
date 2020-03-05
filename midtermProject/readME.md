@@ -17,7 +17,7 @@ Testing/Aesthetics:  Once everything was put together I hot glued my buzzer, sol
 
 Here is the game front view:
 
-![](game_FrontView.png)
+![](game_TopView.png)
 
 Here is the game side view:
 
@@ -28,3 +28,6 @@ Here is the inside of the circuit:
 
 ![](circuit_InsideView.png)
 
+Here is the schematic:
+
+![](circuitSchematic.png)
