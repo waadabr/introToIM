@@ -9,6 +9,15 @@
 
 **Prototyping:** As I began developing the game, I created a prototype first. I used my notes from class to wire up LEDs and switches. The lights worked, I was even able to get them to blink in a random order each time the loop ran. However, as I was coding I ran into an issue of getting the program to remember the pattern in which the LED blinked. Without remembering that pattern I had no way of checking if the user was inputting the same pattern. I tried several different methods, and checked online, I ended up finding the solution in the book and used that code to run my program. I realized through this experience that 1. Coding from scratch is a lot more difficult and you have to break down the steps for the program, 2. I was not going to be able to create 3 games so I needed to simplify my idea, and 3. This was a lot harder than I expected. I also used INPUT-PULLUP in the code to use the internal resistors from the arduino because my circuit was already becoming too complicated and this method still allowed the program to run efficiently.  
 
+Here is the full circuit:
+
+![](fullCircuit.png)
+
+
+Here is a close-up of the circuit:
+
+![](closeUpCircuit.png)
+
 **Developing:** After the prototype was ready I began collecting materials to design what my game will look like. I knew I wanted it to be in a box as I was still trying to slightly commit to my game cube idea. I tried to use wood at first but it was difficult to get it cut perfectly so instead I decided to use acrylic instead. To save plastic I only made a top and a bottom and screwed them together in the four corners (left some space in the middle to put in my circuit).
 I then began soldering. At first it was hard to use the machine but I practiced on some spare wires and managed to make a few circles (one wire connecting both ends). After some practice, I soldered the switches, LEDs, and potentiometer (checked that they worked by connecting them to my breadboard manually). I also wanted a louder speaker so I soldered one and connected it to the board as well. I then added them to my circuit, replacing my protype pieces. I also had to solder wires together to create a male to female wire for my LCD display (they ran out at the IM Lab). Whenever I soldered I also used the insulation tube (clear plastic tubes), heated with the dryer, to cover the part of the wires that was soldered. Once these were made I had all the different parts to put my box together.
 I then started assembling the box. I hot glued the LED’s to the box, screwed the switches in the holes, and screwed the potentiometer as well. The LCD display fit in the box as well and I used zipties to make it stay in place (used black  to match the acrylic and make it look nice). My box/hardware for my project was complete at this point. 
