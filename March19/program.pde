@@ -1,7 +1,7 @@
 void setup() {
 
   size(1000, 1000);
-  background(255, 182, 193);
+  background(255, 182, 193); //light pink
 }
 
 void draw() {
