@@ -2,9 +2,9 @@
 
 This is when no mouse is clicked (light blue version):
 
-![]lightBluePortrait.png
+![](lightBluePortrait.png)
 
 
 This is when mouse is clicked (light green version):
 
-![]lightGreenPortrait.png
+![](lightGreenPortrait.png)
