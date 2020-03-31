@@ -7,10 +7,10 @@ The most difficult part was keeping track of the shapes I was making in my code.
 
 **Original Photo:**
 
-[](originalPhoto.png)!
+![](originalPhoto.png)
 
 **Recreated Drawing:**
 
-[](recreatedPhoto.png)!
+![](recreatedPhoto.png)
 
 
