@@ -6,11 +6,11 @@ For this project I created a basic tic-tac-toe game. I downloaded images from th
 
 This project helped me understand how to uses classes and make objects, as well as print font on the screen as well. creating the object was confusing at first because I originally had it placed in the draw function but soon realized it needs to be initialized as a global nulln variable and then re-defined in the setup() to properly run. The font was fun to play with, changing the colors and position. 
 
-Here is a video of the game played!
+[Here]()  is a video of the game being played!
 
 Image of the game:
 
-[]!(tictactoegame.png)
+![](tictactoegame.png)
 
 
 Problems:
