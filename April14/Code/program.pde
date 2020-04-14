@@ -64,7 +64,7 @@ void draw() {
     fill(255); //text will be in white
     text("You've selected: \n"+title_c+"", 30, 200); //display this text at the specific location with the generated text from the file
     text("A " +country_c+" "+type_c+ "\nDirected by " +director_c+" and released in "+ release_year_c+ "\nThe " +type_c+" is " +duration_c+" long and listed as a \n" +listed_in_c+"", 30, 350);
-    text("Descprtion: " +description_c+"", 30, 480, 500, 500);
+    text("Description: " +description_c+"", 30, 480, 500, 500);
     fill(229, 9, 20); //text will be red now
     text("Press any key to make another selection", 30, 670); //instructions for going back to the original selection process
     DISPLAY_TIME = 1000000000; //pause on this poster for this amount of time (long enough to seem like its stopped)
