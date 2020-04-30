@@ -25,9 +25,11 @@ For this project I used PImage, image.get(), and pixels to create a UAE flag bot
 • Finally, a final problem I struggled with was getting the program to display different images depending on how many times the mouse was pressed. My original idea for the project was that different flags would show up over the NYUAD image, both tinted and full color, depending on how many time the mouse was pressed. This proved quite difficult as I tried to use a variable to keep track of the clicks but I think the mouse was too sensitive (especially if you hold it). I couldn't figure out how to fix this issue so I instead opted to keep my project simple and only do one flag in tinted and full color.
 
 
+
 **Sources:**
 
 • https://processing.org/tutorials/pixels/
+
 • https://processing.org/reference/tint_.html
 
 • https://forum.processing.org/one/topic/how-to-change-the-color-of-each-pixel-in-an-image.html
