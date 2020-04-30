@@ -4,7 +4,7 @@
 
 For this project I used PImage, image.get(), and pixels to create a UAE flag both tinted and fully colored over the NYUAD entrance sign. For the tint part, I identified the color I wanted to tint the image and used the imaage.get() function to select the part of the image I wanted tinted. I did this for all 4 colors of the flag and had an if condition for when the user preses the 'ENTER' key so that this tinted flag could be seen over the NYUAD picture. For the full color flag I accessed the pixels of the image to color different sections different colors to match the UAE flag. This full color flag is seen when the mouse is pressed and is gone when the mouse is released.
 
-[Here]() is a video of my creative image!
+[Here](https://youtu.be/RoN6YCWBFAg) is a video of my creative image!
 
 **Original Photo:**
 
