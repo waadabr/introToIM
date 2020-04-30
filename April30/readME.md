@@ -8,7 +8,7 @@ For this project I used PImage, image.get(), and pixels to create a UAE flag bot
 
 **Original Photo:**
 
-![](originalPhoto.jpg)
+![](nyuad.jpg)
 
 **Tinted Flag:**
 
