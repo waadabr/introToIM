@@ -3,7 +3,7 @@ For our final we were asked to do anything with processing. I thus decided to bu
 
 **Main Page/cube:**
 
-![]cube.png
+![](cube.png)
 
 **Maze:**
 
