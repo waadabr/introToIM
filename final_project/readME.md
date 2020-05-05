@@ -15,7 +15,7 @@ For our final we were asked to do anything with processing. I thus decided to bu
 
 **Matching:**
 
-![](matching.png)
+![](matching.jpg)
 
 **Next Steps:**
 - Need to finalize which games I will be incorpating in my program
