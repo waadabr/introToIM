@@ -7,15 +7,15 @@ For our final we were asked to do anything with processing. I thus decided to bu
 
 **Maze:**
 
-![]maze.png
+![](maze.png)
 
 **Tic-Tac-Toe:**
 
-![]tic_tac_toe.png
+![](tic_tac_toe.png)
 
 **Matching:**
 
-![]matching.png
+![](matching.png)
 
 **Next Steps:**
 - Need to finalize which games I will be incorpating in my program
