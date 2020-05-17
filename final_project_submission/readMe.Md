@@ -2,11 +2,15 @@
 
 For our final project we were given the opportunity to do anything with processing. I really enjoyed making a game for one of our earlier projects so I decided to make another one for the final. My original idea is that I would use the previous games I have coded and the new game, a matching game, and put them all together. Essentially, a cube would be presented as the landing page and then it would roll like a dice and when the user clicked the screen it would pause and begin a specific game or activity. I had narrowed it down to 3 games/activites. One was the tic-tac-toe game, another was the netflix recomendation program, and the final one was the matching game I coded for this website. Unfortunately, due to time constraints and coding complications which I will explain in the coding difficulties section later I was unable to get all the different games/programs running together. I opted to instead just do the matching game which I had originally assumed would be an easy code to program, ended up taking me a whole week to figure out and perfect.
 
-[Here]() is a video of the matching game program running!
+[Here](https://youtu.be/Sz0JIMopTuY) is a video of the matching game program running!
 
 Here is an image of the start of the game:
 
+![](coverScreen.png)
+
 Here is an image of matching game in progress:
+
+![](playingGame.png)
 
 **Coding Complications:**
 
